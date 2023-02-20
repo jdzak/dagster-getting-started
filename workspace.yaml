@@ -1,0 +1,4 @@
+# workspace.yaml
+
+load_from:
+  - python_file: hello-dagster.py
